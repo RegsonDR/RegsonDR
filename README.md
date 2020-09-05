@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there <img src="https://raw.githubusercontent.com/RegsonDR/RegsonDR/master/assets/wave.gif" width="25px"> 
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RegsonDR&count_private=true&show_icons=true&bg_color=3f4448&icon_color=fafbfc&text_color=ffffff&title_color=fafbfc" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegsonDR&bg_color=3f4448&text_color=ffffff&title_color=fafbfc&layout=compact" />
+</p>
+
+<p align="right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" />
+</p>
+
 
 <!--
 **RegsonDR/RegsonDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
