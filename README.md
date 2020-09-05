@@ -7,6 +7,7 @@
 
 <p align="right">
   <img src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" />
+  <img src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/regsondr/" />
 </p>
 
 
