@@ -1,8 +1,8 @@
 ### Hey there <img src="https://raw.githubusercontent.com/RegsonDR/RegsonDR/master/assets/wave.gif" width="25px"> 
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RegsonDR&count_private=true&show_icons=true&bg_color=3f4448&icon_color=fafbfc&text_color=ffffff&title_color=fafbfc" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegsonDR&bg_color=3f4448&text_color=ffffff&title_color=fafbfc&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RegsonDR&count_private=true&show_icons=true&hide_title=true&bg_color=ffffff&icon_color=586069&text_color=586069&title_color=0366d6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegsonDR&bg_color=ffffff&text_color=586069&title_color=0366d6&layout=compact" />
 </p>
 
 <p align="right">
