@@ -1,6 +1,15 @@
 ### Hey there <img src="https://raw.githubusercontent.com/RegsonDR/RegsonDR/master/assets/wave.gif" width="25px">
 
 
+🎓 **I'm currently learning**
+<p align="center">
+    <img height="22" src="https://img.shields.io/badge/-Node-grey?style=flat&logo=node.js" />
+    <img height="22" src="https://img.shields.io/badge/-React-grey?style=flat&logo=react" />
+    <img height="22" src="https://img.shields.io/badge/-Redux-grey?style=flat&logo=redux&logoColor=9999FF" />
+    <img height="22" src="https://img.shields.io/badge/-npm-grey?style=flat&logo=npm" />
+    <img height="22" src="https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazon-aws" />   
+</p>
+
 💻 **I'm interested in**
 <p align="center">
     <img height="22" src="https://img.shields.io/badge/-Software_Engineering-grey?style=flat" />
@@ -9,15 +18,6 @@
     <img height="22" src="https://img.shields.io/badge/-Data_Science-grey?style=flat" />
     <img height="22" src="https://img.shields.io/badge/-Artificial_Intelligence-grey?style=flat" />
     <img height="22" src="https://img.shields.io/badge/-Machine_Learning-grey?style=flat" />
-</p>
-
-🎓 **I'm currently improving my knowledge on**
-<p align="center">
-    <img height="22" src="https://img.shields.io/badge/-Node-grey?style=flat&logo=node.js" />
-    <img height="22" src="https://img.shields.io/badge/-React-grey?style=flat&logo=react" />
-    <img height="22" src="https://img.shields.io/badge/-Redux-grey?style=flat&logo=redux&logoColor=9999FF" />
-    <img height="22" src="https://img.shields.io/badge/-npm-grey?style=flat&logo=npm" />
-    <img height="22" src="https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazon-aws" />   
 </p>
 
 🦾**Some technologies I've used**
