@@ -1,4 +1,4 @@
-## Hey there <img src="https://raw.githubusercontent.com/RegsonDR/RegsonDR/master/assets/wave.gif" width="25px"><a href="https://www.linkedin.com/in/regsondr/"> <img align="right" height="23" src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logoColor=ffffff&logo=Linkedin" /> </a> <img align="right" height="23" src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" />
+### Hey there <img height="21" src="https://raw.githubusercontent.com/RegsonDR/RegsonDR/master/assets/wave.gif" width="25px">
 
 
 **Currently learning**
@@ -40,11 +40,13 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegsonDR&layout=compact&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
 </p>
 
-<p align="right">
-    <img height="20" src="https://badges.pufler.dev/updated/RegsonDR/RegsonDR?style=flat&color=0b7cbd&cacheSeconds=0" />
-</p>
-
-
+<span>
+    <a href="https://www.linkedin.com/in/regsondr/">
+        <img height="21" align="left" src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logoColor=ffffff&logo=Linkedin" />
+    </a>
+    <img height="21" align="left" src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" />
+    <img height="18" align="right" height="19" src="https://img.shields.io/github/last-commit/RegsonDR/RegsonDR?color=0b7cbd&label=Updated&logo=github&cacheSeconds=300" />
+</span>
 
 <!--
 **RegsonDR/RegsonDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
