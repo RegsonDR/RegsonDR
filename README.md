@@ -1,4 +1,4 @@
-### Hey there <img src="https://raw.githubusercontent.com/RegsonDR/RegsonDR/master/assets/wave.gif" width="25px"><a href="https://www.linkedin.com/in/regsondr/"> <img align="right" height="23" src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logoColor=ffffff&logo=Linkedin" /> </a> <img align="right" height="23" src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" />
+## Hey there <img src="https://raw.githubusercontent.com/RegsonDR/RegsonDR/master/assets/wave.gif" width="25px"><a href="https://www.linkedin.com/in/regsondr/"> <img align="right" height="23" src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logoColor=ffffff&logo=Linkedin" /> </a> <img align="right" height="23" src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" />
 
 
 **Currently learning**
