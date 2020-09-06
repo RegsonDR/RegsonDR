@@ -20,7 +20,7 @@
     <img height="22" src="https://img.shields.io/badge/-Machine_Learning-grey?style=flat" />
 </p>
 
-🦾**Some technologies I've used**
+🦾 **Some technologies I've used**
 <p align="center">
     <img height="22" src="https://img.shields.io/badge/-Git-grey?style=flat&logo=git" />
     <img height="22" src="https://img.shields.io/badge/-Google_Cloud-grey?style=flat&logo=google-cloud" />
