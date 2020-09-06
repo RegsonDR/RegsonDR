@@ -41,7 +41,7 @@
 </p>
 
 <p align="right">
-    <img height="20" src="https://badges.pufler.dev/updated/RegsonDR/RegsonDR?style=flat&color=0b7cbd" />
+    <img height="20" src="https://badges.pufler.dev/updated/RegsonDR/RegsonDR?style=flat&color=0b7cbd&cacheSeconds=3600" />
 </p>
 
 
