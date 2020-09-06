@@ -26,14 +26,12 @@
     <img height="21" src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb" /> 
     <img height="21" src="https://img.shields.io/badge/-Apache-grey?style=flat&logo=apache&logoColor=D22128" />
     <img height="21" src="https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=007ACC" />   
-    <img height="21" src="https://img.shields.io/badge/-Postman-grey?style=flat&logo=postman" />   
     <img height="21" src="https://img.shields.io/badge/-PyPi-grey?style=flat&logo=pypi" />     
     <img height="21" src="https://img.shields.io/badge/-Jupyter-grey?style=flat&logo=jupyter" />     
     <img height="21" src="https://img.shields.io/badge/-Jinja-grey?style=flat&logo=jinja&logoColor=B41717" />
     <img height="21" src="https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask" />     
     <img height="21" src="https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql&logoColor=ffffff" />     
-    <img height="21" src="https://img.shields.io/badge/-ngrok-grey?style=flat&logo=github-actions&logoColor=ffffff" />        
-    <img height="21" src="https://img.shields.io/badge/-Stripe-grey?style=flat&logo=stripe" />     
+    <img height="21" src="https://img.shields.io/badge/-ngrok-grey?style=flat&logo=github-actions&logoColor=ffffff" />     
 </p>
 
 <p align="center">
