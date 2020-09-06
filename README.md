@@ -4,7 +4,7 @@
 <p align="center">
     <img height="21" src="https://img.shields.io/badge/-Node-grey?style=flat&logo=node.js" />
     <img height="21" src="https://img.shields.io/badge/-React-grey?style=flat&logo=react" />
-    <img height="21" src="https://img.shields.io/badge/-Redux-grey?style=flat&logo=redux" />
+    <img height="21" src="https://img.shields.io/badge/-Redux-grey?style=flat&logo=redux&logoColor=9999FF" />
     <img height="21" src="https://img.shields.io/badge/-npm-grey?style=flat&logo=npm" />
     <img height="21" src="https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazon-aws" />   
 </p>
