@@ -46,30 +46,17 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-master.regsondr.vercel.app/api?username=RegsonDR&count_private=true&show_icons=true&icon_color=fafbfc&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
-  <img height="180" src="https://github-readme-stats-git-master.regsondr.vercel.app/api/top-langs/?username=RegsonDR&layout=compact&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" alt="Made with Github Readme Stats">
+        <img height="180" src="https://github-readme-stats-git-master.regsondr.vercel.app/api?username=RegsonDR&count_private=true&show_icons=true&icon_color=fafbfc&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
+        <img height="180" src="https://github-readme-stats-git-master.regsondr.vercel.app/api/top-langs/?username=RegsonDR&layout=compact&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
+    </a>
 </p>
 
 <span>
-<!--     https://img.shields.io/badge/My_website-grey?style=flat&logo=HTML5 -->
+    <!--  https://img.shields.io/badge/My_website-grey?style=flat&logo=HTML5 -->
     <a href="https://www.linkedin.com/in/regsondr/">
         <img height="22" align="left" src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logoColor=ffffff&logo=Linkedin" />
     </a>
     <img height="22" align="left" src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" />
     <img height="19" align="right" height="19" src="https://img.shields.io/github/last-commit/RegsonDR/RegsonDR?color=0b7cbd&label=Updated&logo=github&cacheSeconds=300" />
 </span>
-
-<!--
-**RegsonDR/RegsonDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
