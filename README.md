@@ -27,7 +27,7 @@
     <img height="22" src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb" /> 
     <img height="22" src="https://img.shields.io/badge/-Apache-grey?style=flat&logo=apache&logoColor=D22128" />
     <img height="22" src="https://img.shields.io/badge/-VSCode-grey?style=flat&logo=visual-studio-code&logoColor=007ACC" />   
-<!--     <img height="22" src="https://img.shields.io/badge/-PyPi-grey?style=flat&logo=pypi" />      -->
+    <img height="22" src="https://img.shields.io/badge/-PyPi-grey?style=flat&logo=pypi" />     
     <img height="22" src="https://img.shields.io/badge/-Jupyter-grey?style=flat&logo=jupyter" />    
     <img height="22" src="https://img.shields.io/badge/-Material_UI-grey?style=flat&logo=material-ui&logoColor=0081CB" />     
     <img height="22" src="https://img.shields.io/badge/-Jinja-grey?style=flat&logo=jinja&logoColor=B41717" />
@@ -35,14 +35,18 @@
     <img height="22" src="https://img.shields.io/badge/-PyCharm-grey?style=flat&logo=pycharm" />     
     <img height="22" src="https://img.shields.io/badge/-Bootstrap-grey?style=flat&logo=bootstrap&logoColor=9266CC" />   
     <img height="22" src="https://img.shields.io/badge/-Postman-grey?style=flat&logo=postman" />     
-<!--     <img height="22" src="https://img.shields.io/badge/-Curl-grey?style=flat&logo=curl" /> -->
+    <img height="22" src="https://img.shields.io/badge/-Heroku-grey?style=flat&logo=heroku&logoColor=430098" />  
+    <img height="22" src="https://img.shields.io/badge/-Curl-grey?style=flat&logo=curl" />
+    <img height="22" src="https://img.shields.io/badge/-Discord.js-grey?style=flat&logo=discord" />     
     <img height="22" src="https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql&logoColor=ffffff" />     
     <img height="22" src="https://img.shields.io/badge/-ngrok-grey?style=flat&logo=github-actions&logoColor=ffffff" />     
     <img height="22" src="https://img.shields.io/badge/-XAMPP-grey?style=flat&logo=xampp" />   
     <img height="22" src="https://img.shields.io/badge/-Stripe.js-grey?style=flat&logo=stripe" />     
     <img height="22" src="https://img.shields.io/badge/-DigitalOcean-grey?style=flat&logo=digitalocean" />  
     <img height="22" src="https://img.shields.io/badge/-Pandas-grey?style=flat&logo=pandas&logoColor=150458" />   
-    <img height="22" src="https://img.shields.io/badge/-Android_Studio-grey?style=flat&logo=Android-studio" />   
+    <img height="22" src="https://img.shields.io/badge/-Android_Studio-grey?style=flat&logo=Android-studio" />  
+    <img height="22" src="https://img.shields.io/badge/-GraphQL-grey?style=flat&logo=graphql&logoColor=E10098" /> 
+    <img height="22" src="https://img.shields.io/badge/-+_more-grey?style=flat" />   
 </p>
 
 <p align="center">
