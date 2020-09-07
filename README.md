@@ -46,8 +46,8 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RegsonDR&count_private=true&show_icons=true&icon_color=fafbfc&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegsonDR&layout=compact&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
+  <img height="180" src="https://github-readme-stats-git-master.regsondr.vercel.app/api?username=RegsonDR&count_private=true&show_icons=true&icon_color=fafbfc&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
+  <img height="180" src="https://github-readme-stats-git-master.regsondr.vercel.app/api/top-langs/?username=RegsonDR&layout=compact&bg_color=3f4448&text_color=ffffff&title_color=fafbfc" />
 </p>
 
 <span>
