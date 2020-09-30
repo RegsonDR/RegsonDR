@@ -56,6 +56,8 @@
     </a>
 </p>
 
+💡 **I'm always up for collaboration, contact me.**
+
 <span>
     <!--  https://img.shields.io/badge/My_website-grey?style=flat&logo=HTML5 -->
     <a href="https://www.linkedin.com/in/regsondr/">
