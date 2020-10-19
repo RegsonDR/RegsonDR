@@ -37,6 +37,7 @@
     <img height="22" src="https://img.shields.io/badge/-Postman-grey?style=flat&logo=postman" />     
     <img height="22" src="https://img.shields.io/badge/-Heroku-grey?style=flat&logo=heroku&logoColor=430098" />  
     <img height="22" src="https://img.shields.io/badge/-Curl-grey?style=flat&logo=curl" />
+    <img height="22" src="https://img.shields.io/badge/-Twilio-grey?style=flat&logo=Twilio" />
     <img height="22" src="https://img.shields.io/badge/-Google_APIs-grey?style=flat&logo=google" />
     <img height="22" src="https://img.shields.io/badge/-Discord.js-grey?style=flat&logo=discord" />     
     <img height="22" src="https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql&logoColor=ffffff" />     
