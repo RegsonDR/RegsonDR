@@ -3,10 +3,8 @@
 
 🎓 **I'm currently learning**
 <p align="center">
-    <img height="22" src="https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node.js" />
     <img height="22" src="https://img.shields.io/badge/-React.js-grey?style=flat&logo=react" />
     <img height="22" src="https://img.shields.io/badge/-Redux.js-grey?style=flat&logo=redux&logoColor=9999FF" />
-    <img height="22" src="https://img.shields.io/badge/-npm-grey?style=flat&logo=npm" />
     <img height="22" src="https://img.shields.io/badge/-AWS-grey?style=flat&logo=amazon-aws" />   
 </p>
 
@@ -24,6 +22,7 @@
 <p align="center">
     <img height="22" src="https://img.shields.io/badge/-Git-grey?style=flat&logo=git" />
     <img height="22" src="https://img.shields.io/badge/-Google_Cloud-grey?style=flat&logo=google-cloud" />
+    <img height="22" src="https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node.js" />
     <img height="22" src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb" /> 
     <img height="22" src="https://img.shields.io/badge/-Apache-grey?style=flat&logo=apache&logoColor=D22128" />
     <img height="22" src="https://img.shields.io/badge/-VSCode-grey?style=flat&logo=visual-studio-code&logoColor=007ACC" />   
