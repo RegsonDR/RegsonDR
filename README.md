@@ -40,7 +40,6 @@
     <img height="22" src="https://img.shields.io/badge/-Google_APIs-grey?style=flat&logo=google" />
     <img height="22" src="https://img.shields.io/badge/-Discord.js-grey?style=flat&logo=discord" />     
     <img height="22" src="https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql&logoColor=ffffff" />     
-    <img height="22" src="https://img.shields.io/badge/-ngrok-grey?style=flat&logo=github-actions&logoColor=ffffff" />     
     <img height="22" src="https://img.shields.io/badge/-XAMPP-grey?style=flat&logo=xampp" />   
     <img height="22" src="https://img.shields.io/badge/-Stripe.js-grey?style=flat&logo=stripe" />     
     <img height="22" src="https://img.shields.io/badge/-DigitalOcean-grey?style=flat&logo=digitalocean" />  
