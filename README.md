@@ -63,6 +63,9 @@
     <a href="https://www.linkedin.com/in/regsondr/">
         <img height="22" align="left" src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logoColor=ffffff&logo=Linkedin" />
     </a>
+    <a href="https://app.bugshare.io/@regsondr">
+        <img height="22" align="left" src="https://img.shields.io/badge/app.bugshare.io-%40regsondr-blue" />
+    </a>
 <!--     <img height="22" align="left" src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" /> -->
     <img height="19" align="right" height="19" src="https://img.shields.io/github/last-commit/RegsonDR/RegsonDR?color=0b7cbd&label=Updated&logo=github&cacheSeconds=300" />
 </span>
