@@ -60,9 +60,9 @@
 
 <span>
     <!--  https://img.shields.io/badge/My_website-grey?style=flat&logo=HTML5 -->
-    <a href="https://www.linkedin.com/in/regsondr/">
+<!--     <a href="https://www.linkedin.com/in/regsondr/">
         <img height="22" align="left" src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logoColor=ffffff&logo=Linkedin" />
-    </a>
+    </a> -->
     <a href="https://bugshare.io/@regsondr">
         <img height="22" align="left" src="https://img.shields.io/static/v1?message=@regsondr&labelColor=5c5c5c&color=4569dd&logoColor=white&label=%20&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iMTAiIGZpbGw9IiMxNjQzRDQiIGZpbGwtb3BhY2l0eT0iMC44Ii8+CjxwYXRoIGQ9Ik0yMS41NDEzIDMxLjY5NTJDMTkuNzg5MyAzMS42OTUyIDE4LjMzNzMgMzEuMDU5MiAxNy4xODUzIDI5Ljc4NzJWMzEuMjYzMkgxMy40NDEzVjYuOTk5MThMMTcuMTg1MyA1LjI3MTE4VjE0LjI3MTJDMTguMjg5MyAxMy4wNDcyIDE5Ljc0MTMgMTIuNDM1MiAyMS41NDEzIDEyLjQzNTJDMjMuODIxMyAxMi40MzUyIDI1LjY1NzMgMTMuMjk5MiAyNy4wNDkzIDE1LjAyNzJDMjguNDY1MyAxNi43MzEyIDI5LjE3MzMgMTkuMDcxMiAyOS4xNzMzIDIyLjA0NzJDMjkuMTczMyAyNS4xMTkyIDI4LjQ4OTMgMjcuNDk1MiAyNy4xMjEzIDI5LjE3NTJDMjUuNzc3MyAzMC44NTUyIDIzLjkxNzMgMzEuNjk1MiAyMS41NDEzIDMxLjY5NTJaTTIxLjA3MzMgMjguMTY3MkMyMi40NjUzIDI4LjE2NzIgMjMuNTMzMyAyNy42MjcyIDI0LjI3NzMgMjYuNTQ3MkMyNS4wNDUzIDI1LjQ0MzIgMjUuNDI5MyAyMy45NDMyIDI1LjQyOTMgMjIuMDQ3MkMyNS40MjkzIDIwLjA3OTIgMjUuMDU3MyAxOC41NzkyIDI0LjMxMzMgMTcuNTQ3MkMyMy41NjkzIDE2LjQ5MTIgMjIuNDg5MyAxNS45NjMyIDIxLjA3MzMgMTUuOTYzMkMyMC4yMDkzIDE1Ljk2MzIgMTkuNDI5MyAxNi4xNzkyIDE4LjczMzMgMTYuNjExMkMxOC4wMzczIDE3LjAxOTIgMTcuNTIxMyAxNy40OTkyIDE3LjE4NTMgMTguMDUxMlYyNi4wNzkyQzE4LjA0OTMgMjcuNDcxMiAxOS4zNDUzIDI4LjE2NzIgMjEuMDczMyAyOC4xNjcyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==" />
     </a>
