@@ -34,7 +34,7 @@
     <img height="22" src="https://img.shields.io/badge/-PostgreSQL-grey?style=flat&logo=postgresql" />   
     <img height="22" src="https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker" />   
     <img height="22" src="https://img.shields.io/badge/-ngrok-grey?style=flat&logo=ngrok" />   
-    <img height="22" src="https://img.shields.io/badge/-GitHub-Actions-grey?style=flat&logo=gitHub-actions" />   
+    <img height="22" src="https://img.shields.io/badge/-GitHub-Actions-grey?style=flat&logo=github-actions" />   
     <img height="22" src="https://img.shields.io/badge/-Netlify-grey?style=flat&logo=netlify" />      
     <img height="22" src="https://img.shields.io/badge/-Postman-grey?style=flat&logo=postman" />     
     <img height="22" src="https://img.shields.io/badge/-Heroku-grey?style=flat&logo=heroku&logoColor=430098" />  
