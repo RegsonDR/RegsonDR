@@ -14,7 +14,6 @@
     <img height="22" src="https://img.shields.io/badge/-Microservices-grey?style=flat" />
     <img height="22" src="https://img.shields.io/badge/-Web_Development-grey?style=flat" />
     <img height="22" src="https://img.shields.io/badge/-Software_Scalability-grey?style=flat" />
-    <img height="22" src="https://img.shields.io/badge/-Data_Science-grey?style=flat" />
     <img height="22" src="https://img.shields.io/badge/-Artificial_Intelligence-grey?style=flat" />
 </p>
 
