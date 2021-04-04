@@ -31,8 +31,11 @@
     <img height="22" src="https://img.shields.io/badge/-Material_UI-grey?style=flat&logo=material-ui&logoColor=0081CB" />     
     <img height="22" src="https://img.shields.io/badge/-Jinja-grey?style=flat&logo=jinja&logoColor=B41717" />
     <img height="22" src="https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask" />
-    <img height="22" src="https://img.shields.io/badge/-PyCharm-grey?style=flat&logo=pycharm" />     
-    <img height="22" src="https://img.shields.io/badge/-Bootstrap-grey?style=flat&logo=bootstrap&logoColor=9266CC" />   
+    <img height="22" src="https://img.shields.io/badge/-PostgreSQL-grey?style=flat&logo=postgresql" />   
+    <img height="22" src="https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker" />   
+    <img height="22" src="https://img.shields.io/badge/-ngrok-grey?style=flat&logo=ngrok" />   
+    <img height="22" src="https://img.shields.io/badge/-GitHub-Actions-grey?style=flat&logo=gitHub-actions" />   
+    <img height="22" src="https://img.shields.io/badge/-Netlify-grey?style=flat&logo=netlify" />      
     <img height="22" src="https://img.shields.io/badge/-Postman-grey?style=flat&logo=postman" />     
     <img height="22" src="https://img.shields.io/badge/-Heroku-grey?style=flat&logo=heroku&logoColor=430098" />  
     <img height="22" src="https://img.shields.io/badge/-Curl-grey?style=flat&logo=curl" />
@@ -42,9 +45,7 @@
     <img height="22" src="https://img.shields.io/badge/-MySQL-grey?style=flat&logo=mysql&logoColor=ffffff" />     
     <img height="22" src="https://img.shields.io/badge/-XAMPP-grey?style=flat&logo=xampp" />   
     <img height="22" src="https://img.shields.io/badge/-Stripe.js-grey?style=flat&logo=stripe" />     
-    <img height="22" src="https://img.shields.io/badge/-DigitalOcean-grey?style=flat&logo=digitalocean" />  
-    <img height="22" src="https://img.shields.io/badge/-Pandas-grey?style=flat&logo=pandas&logoColor=150458" />   
-    <img height="22" src="https://img.shields.io/badge/-Android_Studio-grey?style=flat&logo=Android-studio" />  
+    <img height="22" src="https://img.shields.io/badge/-DigitalOcean-grey?style=flat&logo=digitalocean" />     
     <img height="22" src="https://img.shields.io/badge/-GraphQL-grey?style=flat&logo=graphql&logoColor=E10098" /> 
     <img height="22" src="https://img.shields.io/badge/-+_etc-grey?style=flat" />   
 </p>
@@ -66,6 +67,6 @@
     <a href="https://bugshare.io/@regsondr">
         <img height="22" align="left" src="https://img.shields.io/static/v1?message=@regsondr&labelColor=5c5c5c&color=4569dd&logoColor=white&label=%20&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iMTAiIGZpbGw9IiMxNjQzRDQiIGZpbGwtb3BhY2l0eT0iMC44Ii8+CjxwYXRoIGQ9Ik0yMS41NDEzIDMxLjY5NTJDMTkuNzg5MyAzMS42OTUyIDE4LjMzNzMgMzEuMDU5MiAxNy4xODUzIDI5Ljc4NzJWMzEuMjYzMkgxMy40NDEzVjYuOTk5MThMMTcuMTg1MyA1LjI3MTE4VjE0LjI3MTJDMTguMjg5MyAxMy4wNDcyIDE5Ljc0MTMgMTIuNDM1MiAyMS41NDEzIDEyLjQzNTJDMjMuODIxMyAxMi40MzUyIDI1LjY1NzMgMTMuMjk5MiAyNy4wNDkzIDE1LjAyNzJDMjguNDY1MyAxNi43MzEyIDI5LjE3MzMgMTkuMDcxMiAyOS4xNzMzIDIyLjA0NzJDMjkuMTczMyAyNS4xMTkyIDI4LjQ4OTMgMjcuNDk1MiAyNy4xMjEzIDI5LjE3NTJDMjUuNzc3MyAzMC44NTUyIDIzLjkxNzMgMzEuNjk1MiAyMS41NDEzIDMxLjY5NTJaTTIxLjA3MzMgMjguMTY3MkMyMi40NjUzIDI4LjE2NzIgMjMuNTMzMyAyNy42MjcyIDI0LjI3NzMgMjYuNTQ3MkMyNS4wNDUzIDI1LjQ0MzIgMjUuNDI5MyAyMy45NDMyIDI1LjQyOTMgMjIuMDQ3MkMyNS40MjkzIDIwLjA3OTIgMjUuMDU3MyAxOC41NzkyIDI0LjMxMzMgMTcuNTQ3MkMyMy41NjkzIDE2LjQ5MTIgMjIuNDg5MyAxNS45NjMyIDIxLjA3MzMgMTUuOTYzMkMyMC4yMDkzIDE1Ljk2MzIgMTkuNDI5MyAxNi4xNzkyIDE4LjczMzMgMTYuNjExMkMxOC4wMzczIDE3LjAxOTIgMTcuNTIxMyAxNy40OTkyIDE3LjE4NTMgMTguMDUxMlYyNi4wNzkyQzE4LjA0OTMgMjcuNDcxMiAxOS4zNDUzIDI4LjE2NzIgMjEuMDczMyAyOC4xNjcyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==" />
     </a>
-    <img height="22" align="left" src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" />
+<!--     <img height="22" align="left" src="https://visitor-badge.glitch.me/badge?page_id=RegsonDR.RegsonDR" /> -->
     <img height="19" align="right" height="19" src="https://img.shields.io/github/last-commit/RegsonDR/RegsonDR?color=0b7cbd&label=Updated&logo=github&cacheSeconds=300" />
 </span>
