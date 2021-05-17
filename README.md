@@ -22,7 +22,7 @@
     <img height="22" src="https://img.shields.io/badge/-Git-grey?style=flat&logo=git" />
     <img height="22" src="https://img.shields.io/badge/-Google_Cloud-grey?style=flat&logo=google-cloud" />
     <img height="22" src="https://img.shields.io/badge/-Azure-grey?style=flat&logo=microsoft-azure" />
-    <img height="22" src="https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node.js" />
+    <img height="22" src="https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node-dot-js" />
     <img height="22" src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb" /> 
     <img height="22" src="https://img.shields.io/badge/-Apache-grey?style=flat&logo=apache&logoColor=D22128" />
     <img height="22" src="https://img.shields.io/badge/-VSCode-grey?style=flat&logo=visual-studio-code&logoColor=007ACC" />   
